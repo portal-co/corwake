@@ -1,13 +1,14 @@
 # corwake
 
 ## Description
-Project corwake
+Wakers in WebAssembly. Provides utilities for handling async wakers within WASM environments using `externref`.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement WASM-compatible wakers
+- [ ] Support `externref` for host integration
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized (v0.1.0)
 
 ---
 *AI assisted*
